@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Keyruu/Keyruu/master/readme_header.png "Header")](https://keyruu.de)
+[![Header](https://raw.githubusercontent.com/Keyruu/Keyruu/master/keyruu_logo.png "Header")](https://keyruu.de)
 
 # Hi there! 🖖
 
