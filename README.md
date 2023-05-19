@@ -27,4 +27,4 @@ I'm currently working as a DevOps Engineer at exentra. But I would consider myse
 
 ## 📫 Socials
 
-[LinkedIn](https://www.linkedin.com/in/lucas-rott-230339196/) - [Instagram](https://www.instagram.com/neinhieristlucas/) - [Spotify](https://open.spotify.com/artist/30HiXstnqdhinOCSZvOC09?si=3tTRkzZ7QAOXU-QRFmjAhA)  
+[LinkedIn](https://www.linkedin.com/in/lucasrott/) - [Instagram](https://www.instagram.com/neinhieristlucas/) - [Spotify](https://open.spotify.com/artist/30HiXstnqdhinOCSZvOC09?si=3tTRkzZ7QAOXU-QRFmjAhA)  
