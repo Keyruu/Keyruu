@@ -1,16 +1,30 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/Keyruu/Keyruu/master/readme_header.png "Header")](https://keyruu.de)
 
-<!--
-**Keyruu/Keyruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 🖖
 
-Here are some ideas to get you started:
+I'm Keyruu 🔑 aka Lucas. I code but also do music and design. Check out my [website](https://keyruu.de) for info and other cool stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working as a DevOps Engineer at exentra. But I would consider myself a full-stack developer.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=kubernetes&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-APISIX-informational?style=flat&logo=apache&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnubash&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=apachemaven&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Cloud-Hetzner-informational?style=flat&logo=hetzner&logoColor=white&color=007ACC)
+
+<!-- links to social media icons -->
+
+## 📫 Socials
+
+[LinkedIn](https://www.linkedin.com/in/lucas-rott-230339196/) - [Instagram](https://www.instagram.com/neinhieristlucas/) - [Spotify](https://open.spotify.com/artist/30HiXstnqdhinOCSZvOC09?si=3tTRkzZ7QAOXU-QRFmjAhA)  
