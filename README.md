@@ -4,7 +4,9 @@
 
 I'm Keyruu 🔑 aka Lucas. I code but also do music and design. Check out my [website](https://keyruu.de) for info and other cool stuff.
 
-I'm currently working as a DevOps Engineer at exentra. But I would consider myself a full-stack developer.
+And you should check out my [blog](https://oblivion.keyruu.de/). I blog about all the tech stuff I do in my free time.
+
+I'm currently working as a DevOps Engineer at myposter. But I would consider myself a full-stack developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=007ACC)
