@@ -4,7 +4,7 @@
 
 I'm Keyruu 🔑 aka Lucas. I code but also do music and design. Check out my [website](https://keyruu.de) for info and other cool stuff.
 
-And you should check out my [blog](https://oblivion.keyruu.de/). I blog about all the tech stuff I do in my free time.
+And you should check out my [blog](https://keyruu.de/blog). I blog about all the tech stuff I do in my free time.
 
 I'm currently working as a DevOps Engineer at myposter. But I would consider myself a full-stack developer.
 
@@ -29,4 +29,4 @@ I'm currently working as a DevOps Engineer at myposter. But I would consider mys
 
 ## 📫 Socials
 
-[LinkedIn](https://www.linkedin.com/in/lucasrott/) - [Instagram](https://www.instagram.com/neinhieristlucas/) - [Spotify](https://open.spotify.com/artist/30HiXstnqdhinOCSZvOC09?si=3tTRkzZ7QAOXU-QRFmjAhA)  
+[LinkedIn](https://www.linkedin.com/in/lucasrott/) - [Instagram](https://www.instagram.com/iamkeyruu/) - [Spotify](https://open.spotify.com/artist/30HiXstnqdhinOCSZvOC09?si=3tTRkzZ7QAOXU-QRFmjAhA)  
