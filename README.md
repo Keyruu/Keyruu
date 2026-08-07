@@ -12,12 +12,14 @@ I'm currently working as a DevOps Engineer at myposter. But I would consider mys
 
 **Languages**
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=CE422B)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 
 **Frameworks**
 ![](https://img.shields.io/badge/Astro-informational?style=flat&logo=astro&logoColor=white&color=FF5D01)
 ![](https://img.shields.io/badge/htmx-informational?style=flat&logo=htmx&logoColor=white&color=3366FF)
+![](https://img.shields.io/badge/Axum-informational?style=flat&color=311C87)
+![](https://img.shields.io/badge/Svelte-informational?style=flat&logo=svelte&logoColor=white&color=FF3E00)
 
 **Editor**
 ![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57A143)
@@ -53,10 +55,10 @@ I'm currently working as a DevOps Engineer at myposter. But I would consider mys
 ![](https://img.shields.io/badge/Renovate-informational?style=flat&logo=renovate&logoColor=white&color=71B7FB)
 ![](https://img.shields.io/badge/Restic-informational?style=flat&color=0080AA)
 ![](https://img.shields.io/badge/Syncthing-informational?style=flat&logo=syncthing&logoColor=white&color=0891D1)
-![](https://img.shields.io/badge/OpenCode-informational?style=flat&logo=opencode&logoColor=white&color=1A1A1A)
+![](https://img.shields.io/badge/Pi-informational?style=flat&logo=pi&logoColor=white&color=5D5CFF)
 
 **Gear**
-![](https://img.shields.io/badge/Casio%20A158WA-informational?style=flat&color=0033A0)
+![](https://img.shields.io/badge/ScanWatch%202-informational?style=flat&color=00B0B9)
 ![](https://img.shields.io/badge/Fairphone%206-informational?style=flat&logo=fairphone&logoColor=white&color=4CAF50)
 ![](https://img.shields.io/badge/FiiO%20FT1-informational?style=flat&color=1A1A1A)
 ![](https://img.shields.io/badge/LTT%20Backpack-informational?style=flat&color=FF6B00)
