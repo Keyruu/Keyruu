@@ -10,54 +10,54 @@ I'm currently working as a DevOps Engineer at myposter. But I would consider mys
 
 ## 🔧 Technologies & Tools
 
-### Languages
+**Languages**
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 
-### Frameworks
+**Frameworks**
 ![](https://img.shields.io/badge/Astro-informational?style=flat&logo=astro&logoColor=white&color=FF5D01)
 ![](https://img.shields.io/badge/htmx-informational?style=flat&logo=htmx&logoColor=white&color=3366FF)
 
-### Editor
+**Editor**
 ![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57A143)
 ![](https://img.shields.io/badge/Maple%20Mono-informational?style=flat&color=5E5E5E)
 
-### Desktop
+**Desktop**
 ![](https://img.shields.io/badge/Alacritty-informational?style=flat&logo=alacritty&logoColor=white&color=F46D01)
-![](https://img.shields.io/badge/Niri-informational?style=flat&color=7B68EE)
+![](https://img.shields.io/badge/Niri-informational?style=flat&logo=niri&logoColor=white&color=7B68EE)
 ![](https://img.shields.io/badge/Noctalia%20Shell-informational?style=flat&color=8B5CF6)
 ![](https://img.shields.io/badge/Vicinae-informational?style=flat&color=1A1A1A)
 ![](https://img.shields.io/badge/Zen%20Browser-informational?style=flat&color=F76C53)
 
-### Monitoring
+**Monitoring**
 ![](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
 ![](https://img.shields.io/badge/Loki-informational?style=flat&color=FAA519)
 ![](https://img.shields.io/badge/Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
-![](https://img.shields.io/badge/Cockpit-informational?style=flat&color=0066CC)
+![](https://img.shields.io/badge/Cockpit-informational?style=flat&logo=cockpit&logoColor=white&color=0066CC)
 
-### Infrastructure
+**Infrastructure**
 ![](https://img.shields.io/badge/NixOS-informational?style=flat&logo=nixos&logoColor=white&color=5277C3)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Podman-informational?style=flat&logo=podman&logoColor=white&color=892CA0)
 ![](https://img.shields.io/badge/WireGuard-informational?style=flat&logo=wireguard&logoColor=white&color=88172A)
 ![](https://img.shields.io/badge/ZFS-informational?style=flat&color=179BAA)
 
-### Cloud
+**Cloud**
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=aws&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/Hetzner-informational?style=flat&logo=hetzner&logoColor=white&color=D50C2D)
 ![](https://img.shields.io/badge/OpenTofu-informational?style=flat&logo=opentofu&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
 
-### Tools
+**Tools**
 ![](https://img.shields.io/badge/Renovate-informational?style=flat&logo=renovate&logoColor=white&color=71B7FB)
-![](https://img.shields.io/badge/Restic-informational?style=flat&logo=restic&logoColor=white&color=0080AA)
+![](https://img.shields.io/badge/Restic-informational?style=flat&color=0080AA)
 ![](https://img.shields.io/badge/Syncthing-informational?style=flat&logo=syncthing&logoColor=white&color=0891D1)
-![](https://img.shields.io/badge/OpenCode-informational?style=flat&color=1A1A1A)
+![](https://img.shields.io/badge/OpenCode-informational?style=flat&logo=opencode&logoColor=white&color=1A1A1A)
 
-### Gear
+**Gear**
 ![](https://img.shields.io/badge/Casio%20A158WA-informational?style=flat&color=0033A0)
-![](https://img.shields.io/badge/Fairphone%206-informational?style=flat&color=4CAF50)
+![](https://img.shields.io/badge/Fairphone%206-informational?style=flat&logo=fairphone&logoColor=white&color=4CAF50)
 ![](https://img.shields.io/badge/FiiO%20FT1-informational?style=flat&color=1A1A1A)
 ![](https://img.shields.io/badge/LTT%20Backpack-informational?style=flat&color=FF6B00)
 ![](https://img.shields.io/badge/ZSA%20Voyager-informational?style=flat&color=FF6B00)
